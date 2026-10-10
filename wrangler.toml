@@ -6,5 +6,5 @@ assets = { directory = "./public", binding = "ASSETS" }
 [[d1_databases]]
 binding = "DB"
 database_name = "ga-gestionale"
-database_id = "SOSTITUISCI_CON_ID_DATABASE_D1"
+database_id = "520e9d41-ab35-4474-8ef7-66e7b62a0a52"
 migrations_dir = "."
